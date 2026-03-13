@@ -1,6 +1,7 @@
 from pubmed import search_pubmed, fetch_details, parse_articles, save_results
 from biorxiv import search_biorxiv
 
+# Your search terms - edit these anytim
 import sys
 
 def main():
@@ -12,8 +13,11 @@ def main():
     
     print(f"Running search for: {query}")
 
+SEARCH_QUERY = "fibroblastic reticular cells secondary lymphoid os"
+
+def main():
     # PubMed search
-    ids = search_pubmed(query, max_results=50)
+    ids = search_pubmed(SEARCH_QUERY, max_results=50)
     xml_data = fetch_details(ids)
     pubmed_articles = parse_articles(xml_data)
     print(f"PubMed: {len(pubmed_articles)} articles")

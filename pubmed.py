@@ -73,7 +73,7 @@ def parse_articles(xml_text):
             "title": title,
             "abstract": abstract,
             "year": year,
-            "authors": authors[:3],  # first 3 authors only
+            "authors": authors,  # [:3] first 3 authors only
             "url": f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/"
         })
     
