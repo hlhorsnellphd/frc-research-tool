@@ -1,0 +1,593 @@
+[
+  {
+    "pmid": "41565815",
+    "title": "Fibroblastic reticular cells direct the\u00a0initiation of T cell responses via CD44.",
+    "abstract": "The movement of dendritic cells and T cells within secondary lymphoid organs is critical for the development of adaptive immune responses",
+    "year": "2026",
+    "authors": [
+      "Sng Xavier Y X",
+      "Voigt Valentina",
+      "Schuster Iona S"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41565815/"
+  },
+  {
+    "pmid": "41495975",
+    "title": "A Human-Based Skin-Lymphoreticular Model-on-Chip to Emulate Inflammatory Skin Conditions.",
+    "abstract": "Despite fast-paced advances in bioengineering human-based models, emulating fine-tuned and interdependent immunoregulations of the human body remains challenging. While many bioengineered models contain immune cells, secondary lymphoid tissues are typically missing. Here, we report a self-assembled, minimally functional lymphoreticular unit composed of fibroblastic reticular, lymphatic endothelial and CD4",
+    "year": "2026",
+    "authors": [
+      "Tan Zheng",
+      "Adhikary Partho Protim",
+      "W\u00f6rz Dana"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41495975/"
+  },
+  {
+    "pmid": "41249485",
+    "title": "Fibroblastic FLT3L supports lymph node dendritic cells in the interfollicular niche.",
+    "abstract": "Dendritic cell (DC) homeostasis is maintained in secondary lymphoid organs (SLOs) by Fms-like tyrosine kinase 3 ligand (FLT3L). The specific niche providing this DC growth factor within human and mouse SLOs is unclear. Here we show that Gremlin1 (GREM1)-expressing lymph node fibroblastic reticular cells (FRCs) support DC homeostasis via provision of FLT3L. Grem1-expressing FRCs colocalize with DCs and express FLT3LG/Flt3l in human and mouse lymph nodes. Using a new genetic model, we provide evidence that FLT3L produced by GREM1",
+    "year": "2025",
+    "authors": [
+      "Wu Sunny Z",
+      "Lane Ryan S",
+      "Davidson Christopher"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41249485/"
+  },
+  {
+    "pmid": "41241293",
+    "title": "Dendritic Cells: key controllers of lymphoid tissue organization.",
+    "abstract": "Dendritic cells (DCs) are highly efficient antigen-presenting cells that play a central role in inducing and controlling immune responses. Beyond their role in antigen presentation and in orchestrating lymphocyte activities, DCs also contribute to the spatial and functional organization of lymphoid structures, including both secondary and tertiary lymphoid organs, acting at different levels during both lymphoid tissue neogenesis and their maintenance. DCs can facilitate lymphoid tissue development by interacting with both lymphoid tissue inducer and organizer cells, initiating early aggregation and supporting lymphotoxin-mediated signaling pathways essential for lymphoid structure maturation. Additionally, DCs release chemokines attracting and anchoring immune cells in lymphoid tissues and regulate the formation and the overall size of high endothelial venule system, which mediate immune cell trafficking into lymphoid tissues. The dynamic crosstalk between DCs and fibroblastic reticular cells (FRC), which facilitate immune cell interactions and compartmentalization, is essential for lymphoid tissue specialization and function, though the precise cellular and molecular mechanisms of DC/FRC crosstalk remain to be fully elucidated. Finally, studies in mice and humans suggest that DC subsets are pivotal in T follicular helper cell differentiation, essential for humoral immunity in B cell follicles of lymphoid tissues, therefore emphasizing DCs' critical role also in supporting B cell maturation and antibody responses in the germinal centers of lymphoid organs.",
+    "year": "2026",
+    "authors": [
+      "Calabr\u00f2 Alessia",
+      "De Pasquale Claudia",
+      "Drommi Fabiana"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41241293/"
+  },
+  {
+    "pmid": "41216593",
+    "title": "TLR ligand sensing by lymph node FRCs directs intranodal lymphocyte accumulation to promote immune responses.",
+    "abstract": "Immune protection depends on antigen-responsive lymphocytes finding their cognate antigen on competent antigen-presenting cells. To increase the likelihood of such an event happening, lymphocytes transiently accumulate in secondary lymphoid organs soon after infection. Here, we show that this phenomenon requires expression of Toll-like receptors (TLRs) on lymph node stromal cells. Direct sensing of pathogen-associated molecular patterns by TLR-expressing fibroblastic reticular cells (FRCs) rapidly induced homeostatic chemokine expression, mediating immediate lymphocyte accumulation into reactive lymph nodes. Ablation of this response, by means of ",
+    "year": "2025",
+    "authors": [
+      "Baptista Antonio P",
+      "Keuning Eelco",
+      "Mebius Reina E"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41216593/"
+  },
+  {
+    "pmid": "40625531",
+    "title": "A spheroid model that recapitulates the protective role of the lymph node microenvironment and serves as a platform for drug testing in chronic lymphocytic leukemia.",
+    "abstract": "Chronic lymphocytic leukemia (CLL) B cells are characterized by a propensity to undergo rapid apoptosis when cultured in vitro, underscoring the importance of the tissue microenvironment for disease survival. One of the major limitations in studying the role of the microenvironment in tumor development and drug response is the inadequacy of conventional two-dimensional (2D) in vitro assays to physiologically reconstruct the complex spatial organization and interactions of cells in their natural lymphoid niches. To overcome this limitation, we developed a novel in vitro 3D lymph node-like spheroid model of the leukemic microenvironment by culturing human CLL cells with fibroblastic reticular cells (FRCs). FRCs are a key structural component of secondary lymphoid organs and are emerging as crucial players in tissue homeostasis and immune responses. Our results demonstrate that CLL spheroids maintain the physiological cellular ratio between FRCs and leukemic cells over time and protect tumor cells from apoptosis by mimicking the protective effects of the microenvironment. This was further demonstrated by venetoclax treatment that showed reduced apoptosis in 3D compared to a 2D setting. Importantly, the spheroids promote a gene expression profile more aligned with that of CLL cells in lymphoid tissues. The spheroid model provides a straightforward, quick-to-use platform for investigating drug efficacy under conditions that better replicate the natural lymph node microenvironment. This 3D lymph node-like spheroid model could serve as a valuable tool for studying tumor biology and the protective effects of the stromal microenvironment, and for testing therapeutic strategies in a more clinically relevant setting.",
+    "year": "2025",
+    "authors": [
+      "Lenti Elisa",
+      "Visentin Edoardo",
+      "Bojnik Engin"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40625531/"
+  },
+  {
+    "pmid": "40465738",
+    "title": "Splenic fibroblastic reticular cells orchestrate dendritic cell maturation and facilitate CD8",
+    "abstract": "Fibroblastic reticular cells (FRCs) are specialized fibroblasts that construct secondary lymphoid organs where they provide crucial signals for immune cell homeostasis and migration. While splenic FRCs are thought to support antiviral T cell responses, their role remains unclear. Here, we found that ablation of splenic FRCs impaired virus-specific CD8",
+    "year": "2025",
+    "authors": [
+      "Alexandre Yannick O",
+      "Potemkin Nikita",
+      "Schienstock Dominik"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40465738/"
+  },
+  {
+    "pmid": "40167600",
+    "title": "The axillary lymphoid organ is an external, experimentally accessible immune organ in the zebrafish.",
+    "abstract": "Lymph nodes and other secondary lymphoid organs play critical roles in immune surveillance and immune activation in mammals, but the deep internal locations of these organs make it challenging to image and study them in living animals. Here, we describe a previously uncharacterized external immune organ in the zebrafish ideally suited for studying immune cell dynamics in vivo, the axillary lymphoid organ (ALO). This small, translucent organ has an outer cortex teeming with immune cells, an inner medulla with a mesh-like network of fibroblastic reticular cells along which immune cells migrate, and a network of lymphatic vessels draining to a large adjacent lymph sac. Noninvasive high-resolution imaging of transgenically marked immune cells can be carried out in ALOs of living animals, which are readily accessible to external treatment. This newly discovered tissue provides a superb model for dynamic live imaging of immune cells and their interaction with pathogens and surrounding tissues, including blood and lymphatic vessels.",
+    "year": "2025",
+    "authors": [
+      "Castranova Daniel",
+      "Kenton Madeleine I",
+      "Kraus Aurora"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40167600/"
+  },
+  {
+    "pmid": "40111253",
+    "title": "Early Notch signals from fibroblastic reticular cells program effector CD8+ T cell differentiation.",
+    "abstract": "A better understanding of the mechanisms regulating CD8+ T cell differentiation is essential to develop new strategies to fight infections and cancer. Using genetic mouse models and blocking antibodies, we uncovered cellular and molecular mechanisms by which Notch signaling favors the efficient generation of effector CD8+ T cells. Fibroblastic reticular cells from secondary lymphoid organs, but not dendritic cells, were the dominant source of Notch signals in T cells via Delta-like1/4 ligands within the first 3 days of immune responses to vaccination or infection. Using transcriptional and epigenetic studies, we identified a unique Notch-driven T cell-specific signature. Early Notch signals were associated with chromatin opening in regions occupied by bZIP transcription factors, specifically BATF, known to be important for CD8+ T cell differentiation. Overall, we show that fibroblastic reticular cell niches control the ultimate molecular and functional fate of CD8+ T cells after vaccination or infection through the delivery of early Notch signals.",
+    "year": "2025",
+    "authors": [
+      "Maurice De Sousa Dave",
+      "Perkey Eric",
+      "Le Corre Laure"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40111253/"
+  },
+  {
+    "pmid": "39555653",
+    "title": "Metabolic Reprogramming of Fibroblastic Reticular Cells in Immunity and Tolerance.",
+    "abstract": "Fibroblastic reticular cells (FRCs) are pivotal stromal components that maintain the structure of secondary lymphoid tissues and modulate the immune responses within the lymphoid microenvironment. In response to specific immune or inflammatory stimuli, such as infection or autoimmune triggers, FRCs undergo significant metabolic reprogramming. This process, originally characterized in cancer research, involves the regulation of key metabolic enzymes, pathways, and metabolites, resulting in functional transformations of these cells. Specifically, viruses stimulate FRCs to enhance the tricarboxylic acid cycle, while rheumatoid arthritis and sepsis prompt FRCs to increase oxidative phosphorylation. These changes enable FRCs to adapt their functions, such as proliferation or cytokine secretion, thereby effectively regulating the immune microenvironment to meet the dynamic needs of the immune system. This review provides a comprehensive update on the metabolic reprogramming of FRCs, highlighting how these changes support immune tolerance and response under varied physiological conditions.",
+    "year": "2025",
+    "authors": [
+      "Kong Dejun",
+      "WillsonShirkey Marina",
+      "Piao Wenji"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39555653/"
+  },
+  {
+    "pmid": "39091802",
+    "title": "The axillary lymphoid organ - an external, experimentally accessible immune organ in the zebrafish.",
+    "abstract": "Lymph nodes and other secondary lymphoid organs play critical roles in immune surveillance and immune activation in mammals, but the deep internal locations of these organs make it challenging to image and study them in living animals. Here, we describe a previously uncharacterized external immune organ in the zebrafish ideally suited for studying immune cell dynamics ",
+    "year": "2024",
+    "authors": [
+      "Castranova Daniel",
+      "Kenton Madeleine I",
+      "Kraus Aurora"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39091802/"
+  },
+  {
+    "pmid": "38695036",
+    "title": "C-C Chemokine 21-Expressing T-cell Zone Fibroblastic Reticular Cells, Abundant in Lymph Nodes, Are Absent in Cancer Lymphoid Stroma.",
+    "abstract": "Cancer tissue generally possesses an immunosuppressive microenvironment. However, some cancers are associated with lymphoid stroma (i.e., a widely developed tertiary lymphoid structure). The T-cell zone (paracortex) of secondary lymphoid organs, particularly lymph nodes, is characterized by an abundance of T-cell zone fibroblastic reticular cells (TCZ-FRCs) that express C-C motif chemokine ligand 21 (CCL21) and smooth muscle actin (SMA). We analyzed the presence of TCZ-FRCs in 30 cases of carcinomas with lymphoid stroma of the breast, stomach, colon, tongue, and skin. Immunohistochemistry corroborated the abundance of CCL21",
+    "year": "2024",
+    "authors": [
+      "Ohtani Haruo",
+      "Matsuo Kazuhiko",
+      "Kitahata Kosuke"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38695036/"
+  },
+  {
+    "pmid": "38038708",
+    "title": "Protective fibroblastic niches in secondary lymphoid organs.",
+    "abstract": "Fibroblastic reticular cells (FRCs) are specialized fibroblasts of secondary lymphoid organs that provide the structural foundation of the tissue. Moreover, FRCs guide immune cells to dedicated microenvironmental niches where they provide lymphocytes and myeloid cells with homeostatic growth and differentiation factors. Inflammatory processes, including infection with pathogens, induce rapid morphological and functional adaptations that are critical for the priming and regulation of protective immune responses. However, adverse FRC reprogramming can promote immunopathological tissue damage during infection and autoimmune conditions and subvert antitumor immune responses. Here, we review recent findings on molecular pathways that regulate FRC-immune cell crosstalk in specialized niches during the generation of protective immune responses in the course of pathogen encounters. In addition, we discuss how FRCs integrate immune cell-derived signals to ensure protective immunity during infection and how therapies for inflammatory diseases and cancer can be developed through improved understanding of FRC-immune cell interactions.",
+    "year": "2024",
+    "authors": [
+      "De Martin Angelina",
+      "Stanossek Yves",
+      "Pikor Natalia Barbara"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38038708/"
+  },
+  {
+    "pmid": "37379368",
+    "title": "Notch signaling drives intestinal graft-versus-host disease in mice and nonhuman primates.",
+    "abstract": "Notch signaling promotes T cell pathogenicity and graft-versus-host disease (GVHD) after allogeneic hematopoietic cell transplantation (allo-HCT) in mice, with a dominant role for the Delta-like Notch ligand DLL4. To assess whether Notch's effects are evolutionarily conserved and to identify the mechanisms of Notch signaling inhibition, we studied antibody-mediated DLL4 blockade in a nonhuman primate (NHP) model similar to human allo-HCT. Short-term DLL4 blockade improved posttransplant survival with durable protection from gastrointestinal GVHD in particular. Unlike prior immunosuppressive strategies tested in the NHP GVHD model, anti-DLL4 interfered with a T cell transcriptional program associated with intestinal infiltration. In cross-species investigations, Notch inhibition decreased surface abundance of the gut-homing integrin \u03b14\u03b27 in conventional T cells while preserving \u03b14\u03b27 in regulatory T cells, with findings suggesting increased \u03b21 competition for \u03b14 binding in conventional T cells. Secondary lymphoid organ fibroblastic reticular cells emerged as the critical cellular source of Delta-like Notch ligands for Notch-mediated up-regulation of \u03b14\u03b27 integrin in T cells after allo-HCT. Together, DLL4-Notch blockade decreased effector T cell infiltration into the gut, with increased regulatory to conventional T cell ratios early after allo-HCT. Our results identify a conserved, biologically unique, and targetable role of DLL4-Notch signaling in intestinal GVHD.",
+    "year": "2023",
+    "authors": [
+      "Tkachev Victor",
+      "Vanderbeck Ashley",
+      "Perkey Eric"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37379368/"
+  },
+  {
+    "pmid": "36880532",
+    "title": "Aldh1a2 + fibroblastic reticular cells regulate lymphocyte recruitment in omental milky spots.",
+    "abstract": "Lymphoid clusters in visceral adipose tissue omentum, known as milky spots, play a central role in the immunological defense in the abdomen. Milky spots exhibit hybrid nature between secondary lymph organs and ectopic lymphoid tissues, yet their development and maturation mechanisms are poorly understood. Here, we identified a subset of fibroblastic reticular cells (FRCs) that are uniquely present in omental milky spots. These FRCs were characterized by the expression of retinoic acid-converting enzyme, Aldh1a2, and endothelial cell marker, Tie2, in addition to canonical FRC-associated genes. Diphtheria toxin-mediated ablation of Aldh1a2+ FRCs resulted in the alteration in milky spot structure with a significant reduction in size and cellularity. Mechanistically, Aldh1a2+ FRCs regulated the display of chemokine CXCL12 on high endothelial venules (HEVs), which recruit blood-borne lymphocytes from circulation. We further found that Aldh1a2+ FRCs are required for the maintenance of peritoneal lymphocyte composition. These results illustrate the homeostatic roles of FRCs in the formation of non-classical lymphoid tissues.",
+    "year": "2023",
+    "authors": [
+      "Yoshihara Tomomi",
+      "Okabe Yasutaka"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/36880532/"
+  },
+  {
+    "pmid": "36519546",
+    "title": "Fibroblastic reticular cells orchestrate long-term graft survival following recipient treatment with CD40 ligand-targeted costimulatory blockade.",
+    "abstract": "Fibroblastic reticular cells (FRCs) maintain the architecture of secondary lymphoid organs, which optimize interactions between antigen-presenting dendritic cells and reactive naive T cells. In this issue of the JCI, Zhao, Jung, and colleagues investigated CD4+FoxP3+ regulatory T cell development and long-term heart allograft survival in recipients treated with peritransplant costimulatory blockade to inhibit CD40/CD40 ligand (CD40L) signaling. Treatment with an anti-CD40L monoclonal antibody (mAb) increased the lymph node (LN) population of Madcam1+ FRCs and altered their transcription profile to express immunoregulatory mediators. Administration of nanoparticles, containing the anti-CD40L mAb and a targeting antibody against high endothelial venules, delivered the treatment into LNs of allograft recipients. Direct LN delivery of the costimulatory blockade allowed decreased dosing and increased the efficacy in extending graft survival. The results provide insights into mechanisms by which FRCs can promote donor-reactive tolerance, and establish a strategy for administering costimulation-blocking reagents that circumvent systemic effects and improve allograft outcomes.",
+    "year": "2022",
+    "authors": [
+      "Fairchild Robert L"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/36519546/"
+  },
+  {
+    "pmid": "36317628",
+    "title": "Stromal structure remodeling by B lymphocytes limits T cell activation in lymph nodes of Mycobacterium tuberculosis-infected mice.",
+    "abstract": "An effective adaptive immune response depends on the organized architecture of secondary lymphoid organs, including the lymph nodes (LNs). While the cellular composition and microanatomy of LNs under steady state are well defined, the impact of chronic tissue inflammation on the structure and function of draining LNs is incompletely understood. Here we showed that Mycobacterium tuberculosis infection remodeled LN architecture by increasing the number and paracortical translocation of B cells. The formation of paracortical B lymphocyte and CD35+ follicular dendritic cell clusters dispersed CCL21-producing fibroblastic reticular cells and segregated pathogen-containing myeloid cells from antigen-specific CD4+ T cells. Depletion of B cells restored the chemokine and lymphoid structure and reduced bacterial burdens in LNs of the chronically infected mice. Importantly, this remodeling process impaired activation of naive CD4+ T cells in response to mycobacterial and unrelated antigens during chronic tuberculosis infection. Our studies reveal a mechanism in the regulation of LN microanatomy during inflammation and identify B cells as a critical element limiting the T cell response to persistent intracellular infection in LNs.",
+    "year": "2022",
+    "authors": [
+      "Daniel Lina",
+      "Bhattacharyya Nayan D",
+      "Counoupas Claudio"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/36317628/"
+  },
+  {
+    "pmid": "36227687",
+    "title": "Fibroblastic reticular cells mitigate acute GvHD via MHCII-dependent maintenance of regulatory T cells.",
+    "abstract": "Acute graft versus host disease (aGvHD) is a life-threatening complication of allogeneic hematopoietic cell transplantation (allo-HCT) inflicted by alloreactive T cells primed in secondary lymphoid organs (SLOs) and subsequent damage to aGvHD target tissues. In recent years, Treg transfer and/or expansion has emerged as a promising therapy to modulate aGvHD. However, cellular niches essential for fostering Tregs to prevent aGvHD have not been explored. Here, we tested whether and to what extent MHC class II (MHCII) expressed on Ccl19+ fibroblastic reticular cells (FRCs) shape the donor CD4+ T cell response during aGvHD. Animals lacking MHCII expression on Ccl19-Cre-expressing FRCs (MHCII\u0394Ccl19) showed aberrant CD4+ T cell activation in the effector phase, resulting in exacerbated aGvHD that was associated with significantly reduced expansion of Foxp3+ Tregs and invariant NK T (iNKT) cells. Skewed Treg maintenance in MHCII\u0394Ccl19 mice resulted in loss of protection from aGvHD provided by adoptively transferred donor Tregs. In contrast, although FRCs upregulated costimulatory surface receptors, and although they degraded and processed exogenous antigens after myeloablative irradiation, FRCs were dispensable to activate alloreactive CD4+ T cells in 2 mouse models of aGvHD. In summary, these data reveal an immunoprotective, MHCII-mediated function of FRC niches in secondary lymphoid organs (SLOs) after allo-HCT and highlight a framework of cellular and molecular interactions that regulate CD4+ T cell alloimmunity.",
+    "year": "2022",
+    "authors": [
+      "Shaikh Haroon",
+      "Pezoldt Joern",
+      "Mokhtari Zeinab"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/36227687/"
+  },
+  {
+    "pmid": "36058002",
+    "title": "Inducing Ectopic T Cell Clusters Using Stromal Vascular Fraction Spheroid-Based Immunotherapy to Enhance Anti-Tumor Immunity.",
+    "abstract": "Tertiary lymphoid structures (TLSs) provide specialized niches for immune cells, resulting in improved prognoses for patients undergoing cancer immunotherapy. Shaping TLS-like niches may improve anti-cancer immunity and overcome the current limitations of immune cell-based immunotherapy. Here, it is shown that stromal vascular fraction (SVF) from adipose tissues can enhance dendritic cell (DC)-mediated T cell immunity by inducing ectopic T lymphocyte clusters. SVF cells expanded ex vivo have phenotypes and functions similar to those of fibroblastic reticular cells in a secondary lymphoid organ, and their properties can be modulated using three-dimensional spheroid culture and coculture with DCs spiked with antigen-loaded iron oxide-zinc oxide core-shell nanoparticles. Thereby, the combination of SVF spheroids and mature DCs significantly augments T cell recruitment and retention at the injection site. This strategy elicits enhanced antigen-specific immune response and anti-tumoral immunity in mice, illustrating the potential for a novel immunotherapeutic design using SVF as a structural scaffold for TLS.",
+    "year": "2022",
+    "authors": [
+      "Lee Jae-Won",
+      "Park Bum Chul",
+      "Jang Na Yoon"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/36058002/"
+  },
+  {
+    "pmid": "35876378",
+    "title": "Lymph Node Fibroblastic Reticular Cells Attenuate Immune Responses Through Induction of Tolerogenic Macrophages at Early Stage of Transplantation.",
+    "abstract": "Fibroblastic reticular cells (FRCs) are a type of stromal cells located in the T zone in secondary lymphoid organs. Previous studies showed that FRCs possess the potential to promote myeloid differentiation. We aim to investigate whether FRCs in lymph nodes (LNs) could induce tolerogenic macrophage generation and further influence T-cell immunity at an early stage of allogeneic hematopoietic stem cell transplantation (allo-HSCT).",
+    "year": "2023",
+    "authors": [
+      "Liu Beichen",
+      "Liu Huihui",
+      "Liu Siwei"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/35876378/"
+  },
+  {
+    "pmid": "35691500",
+    "title": "CCL21 and beta-cell antigen releasing hydrogels as tolerance-inducing therapy in Type I diabetes.",
+    "abstract": "Type-I Diabetes (T1D) is caused by defective immunotolerance mechanisms enabling autoreactive T cells to escape regulation in lymphoid organs and destroy insulin-producing \u03b2-cells in the pancreas, leading to insulin dependence. Strategies to promote \u03b2-cell tolerance could arrest T1D. We previously showed that secretion of secondary lymphoid chemokine CCL21 by CCL21 transgenic \u03b2-cells induced tolerance and protected non-obese diabetic (NOD) mice from T1D. T1D protection was associated with formation of lymph node-like stromal networks containing tolerogenic fibroblastic reticular cells (FRCs). Here, we developed a polyethylene glycol (PEG) hydrogel platform with hydrolytically degradable PEG-diester dithiol crosslinkers to provide controlled and sustained delivery of CCL21 and \u03b2-cell antigens for at least 28\u00a0days in vitro and recapitulate properties associated with the tolerogenic environment of CCL21 transgenic \u03b2-cells in our previous studies. CCL21 and MHC-II restricted antigens were tethered to gels via simple click-chemistry while MHC-I restricted antigens were loaded in PEG-based polymeric nanovesicles and incorporated in the gel networks. CCL21 and antigen release kinetics depended on the PEG gel tethering strategy and the linkers. Importantly, in vitro functionality, chemotaxis, and activation of antigen-specific T cells were preserved. Implantation of CCL21 and \u03b2-cell antigen gels under the kidney capsule of pre-diabetic NOD mice led to enrichment of adoptively transferred antigen-specific T cells, formation of gp38\u00a0+\u00a0FRC-like stromal cell networks, and increased regulation of specific T cells with reduced accumulation within pancreatic islets. Thus, our platform for sustained release of \u03b2-cell antigens and CCL21 immunomodulatory molecule could enable the development of antigen-specific tolerance therapies for T1D.",
+    "year": "2022",
+    "authors": [
+      "Zisi Tegou Flavia",
+      "Velluto Diana",
+      "Stock Aaron A"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/35691500/"
+  },
+  {
+    "pmid": "35439062",
+    "title": "Early age-related atrophy of cutaneous lymph nodes precipitates an early functional decline in skin immunity in mice with aging.",
+    "abstract": "Secondary lymphoid organs (SLOs) (including the spleen and lymph nodes [LNs]) are critical both for the maintenance of naive T (TN) lymphocytes and for the initiation and coordination of immune responses. How they age, including the exact timing, extent, physiological relevance, and the nature of age-related changes, remains incompletely understood. We used \u201ctime stamping\u201d to indelibly mark newly generated naive T cells (also known as recent thymic emigrants) (RTEs) in mice, and followed their presence, phenotype, and retention in SLOs. We found that SLOs involute asynchronously. Skin-draining LNs atrophied by 6 to 9 mo in life, whereas deeper tissue-draining LNs atrophied by 18 to 20 mo, as measured by the loss of both TN numbers and the fibroblastic reticular cell (FRC) network. Time-stamped RTEs at all ages entered SLOs and successfully completed postthymic differentiation, but the capacity of older SLOs to maintain TN numbers was reduced with aging, and that trait did not depend on the age of TNs. However, in SLOs of older mice, these cells exhibited an emigration phenotype (CCR7loS1P1hi), which correlated with an increase of the cells of the same phenotype in the blood. Finally, upon intradermal immunization, RTEs generated in mice barely participated in de novo immune responses and failed to produce well-armed effector cells detectable in blood as early as by 7 to 8 mo of age. These results highlight changes in structure and function of superficial secondary lymphoid organs in laboratory mice that are earlier than expected and are consistent with the long-appreciated reduction of cutaneous immunity with aging.",
+    "year": "2022",
+    "authors": [
+      "Sonar Sandip Ashok",
+      "Uhrlaub Jennifer L",
+      "Coplen Christopher P"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/35439062/"
+  },
+  {
+    "pmid": "35365883",
+    "title": "IFNAR signaling in fibroblastic reticular cells can modulate CD8",
+    "abstract": "CD8",
+    "year": "2022",
+    "authors": [
+      "Knop Laura",
+      "Spanier Julia",
+      "Larsen Pia-Katharina"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/35365883/"
+  },
+  {
+    "pmid": "34362676",
+    "title": "Communication, construction, and fluid control: lymphoid organ fibroblastic reticular cell and conduit networks.",
+    "abstract": "Fibroblastic reticular cells (FRCs) are a crucial part of the stromal cell infrastructure of secondary lymphoid organs (SLOs). Lymphoid organ fibroblasts form specialized niches for immune cell interactions and thereby govern lymphocyte activation and differentiation. Moreover, FRCs produce and ensheath a network of extracellular matrix (ECM) microfibers called the conduit system. FRC-generated conduits contribute to fluid and immune cell control by funneling fluids containing antigens and inflammatory mediators through the SLOs. We review recent progress in FRC biology that has advanced our understanding of immune cell functions and interactions. We discuss the intricate relationships between the cellular FRC and the fibrillar conduit networks, which together form the basis for efficient communication between immune cells and the tissues they survey.",
+    "year": "2021",
+    "authors": [
+      "Acton Sophie E",
+      "Onder Lucas",
+      "Novkovic Mario"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34362676/"
+  },
+  {
+    "pmid": "34060097",
+    "title": "B cell/stromal cell crosstalk in health, disease, and treatment: Follicular lymphoma as a paradigm.",
+    "abstract": "Stromal cells organize specific anatomic compartments within bone marrow (BM) and secondary lymphoid organs where they finely regulate the behavior of mature normal B cells. In particular, lymphoid stromal cells (LSCs) form a phenotypically heterogeneous compartment including various cell subsets variably supporting B-cell survival, activation, proliferation, and differentiation. In turn, activated B cells trigger in-depth remodeling of LSC networks within lymph nodes (LN) and BM. Follicular lymphoma (FL) is one of the best paradigms of a B-cell neoplasia depending on a specific tumor microenvironment (TME), including cancer-associated fibroblasts (CAFs) emerging from the reprogramming of LN LSCs or poorly characterized local BM precursors. FL-CAFs support directly malignant B-cell growth and orchestrate FL permissive cell niche by contributing, through a bidirectional crosstalk, to the recruitment and polarization of immune TME subsets. Recent studies have highlighted a previously unexpected level of heterogeneity of both FL B cells and FL TME, underlined by FL-CAF plasticity. A better understanding of the signaling pathways, molecular mechanisms, and kinetic of stromal cell remodeling in FL would be useful to delineate new predictive markers and new therapeutic approaches in this still fatal malignancy.",
+    "year": "2021",
+    "authors": [
+      "Lamaison Claire",
+      "Tarte Karin"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34060097/"
+  },
+  {
+    "pmid": "34046914",
+    "title": "Differentiation and activation of fibroblastic reticular cells.",
+    "abstract": "Secondary lymphoid organs (SLO) are underpinned by fibroblastic reticular cells (FRC) that form dedicated microenvironmental niches to secure induction and regulation of innate and adaptive immunity. Distinct FRC subsets are strategically positioned in SLOs to provide niche factors and govern efficient immune cell interaction. In recent years, the use of specialized mouse models in combination with single-cell transcriptomics has facilitated the elaboration of the molecular FRC landscape at an unprecedented resolution. While single-cell RNA-sequencing has advanced the resolution of FRC subset characterization and function, the high dimensionality of the generated data necessitates careful analysis and validation. Here, we reviewed novel findings from high-resolution transcriptomic analyses that refine our understanding of FRC differentiation and activation processes in the context of infection and inflammation. We further discuss concepts, strategies, and limitations for the analysis of single-cell transcriptome data from FRCs and the wide-ranging implications for our understanding of stromal cell biology.",
+    "year": "2021",
+    "authors": [
+      "L\u00fctge Mechthild",
+      "Pikor Natalia B",
+      "Ludewig Burkhard"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34046914/"
+  },
+  {
+    "pmid": "36845565",
+    "title": "Lymphoid stromal cells-more than just a highway to humoral immunity.",
+    "abstract": "The generation of high-affinity long-lived antibody responses is dependent on the differentiation of plasma cells and memory B cells, which are themselves the product of the germinal centre (GC) response. The GC forms in secondary lymphoid organs in response to antigenic stimulation and is dependent on the coordinated interactions between many types of leucocytes. These leucocytes are brought together on an interconnected network of specialized lymphoid stromal cells, which provide physical and chemical guidance to immune cells that are essential for the GC response. In this review we will highlight recent advancements in lymphoid stromal cell immunobiology and their role in regulating the GC, and discuss the contribution of lymphoid stromal cells to age-associated immunosenescence.",
+    "year": "2021",
+    "authors": [
+      "Cinti Isabella",
+      "Denton Alice E"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/36845565/"
+  },
+  {
+    "pmid": "33903764",
+    "title": "Gremlin 1",
+    "abstract": "Fibroblastic reticular cells (FRCs) are specialized stromal cells that define tissue architecture and regulate lymphocyte compartmentalization, homeostasis, and innate and adaptive immunity in secondary lymphoid organs (SLOs). In the present study, we used single-cell RNA sequencing (scRNA-seq) of human and mouse lymph nodes (LNs) to identify a subset of T cell-zone FRCs defined by the expression of Gremlin1 (Grem1) in both species. Grem1-CreER",
+    "year": "2021",
+    "authors": [
+      "Kapoor Varun N",
+      "M\u00fcller S\u00f6ren",
+      "Keerthivasan Shilpa"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/33903764/"
+  },
+  {
+    "pmid": "33184575",
+    "title": "Tissue-Engineered Stromal Reticula to Study Lymph Node Fibroblastic Reticular Cells in Type I Diabetes.",
+    "abstract": "Fibroblastic reticular cells (FRCs) support and remodel the lymph node (LN), express and present self-antigens to T cells to promote tolerance. In Type 1 diabetes (T1D), decrease in FRC frequency and in their expression of T1D-related self-antigens may hinder tolerogenic engagement of autoreactive T cells. FRC reticular organization in LNs is critical for adaptive immunity. Thus, we engineered LN-like FRC reticula to determine if FRC reticular properties were altered in T1D and to study engagement of autoreactive T cells ",
+    "year": "2020",
+    "authors": [
+      "Gonzalez Badillo Freddy",
+      "Zisi Tegou Flavia",
+      "Masina Riccardo"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/33184575/"
+  },
+  {
+    "pmid": "33133070",
+    "title": "Human Lymphoid Stromal Cells Contribute to Polarization of Follicular T Cells Into IL-4 Secreting Cells.",
+    "abstract": "Fibroblastic reticular cells (FRCs) are the specialized lymphoid stromal cells initially identified as triggering T-cell recruitment and dynamic motion in secondary lymphoid organs. Interestingly, FRCs also display antigen presentation capacities and support lymphocyte survival. CXCR5",
+    "year": "2020",
+    "authors": [
+      "Misiak Jan",
+      "Jean Rachel",
+      "Rodriguez St\u00e9phane"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/33133070/"
+  },
+  {
+    "pmid": "32497868",
+    "title": "The fibroblastic T cell niche in lymphoid tissues.",
+    "abstract": "Fibroblastic reticular cells (FRCs) are a necessary immunological component for T cell health. These myofibroblasts are specialized for immune cell support and develop in locations where T and B lymphocyte priming occurs, usually secondary lymphoid organs, but also tertiary lymphoid structures and sites of chronic inflammation. This review describes their dual supportive and suppressive functions and emerging evidence on the co-ordination required to balance these competing roles.",
+    "year": "2020",
+    "authors": [
+      "Fletcher Anne L",
+      "Baker Alfie T",
+      "Lukacs-Kornek Veronika"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/32497868/"
+  },
+  {
+    "pmid": "32187985",
+    "title": "Infectious Diseases and the Lymphoid Extracellular Matrix Remodeling: A Focus on Conduit System.",
+    "abstract": "The conduit system was described in lymphoid organs as a tubular and reticular set of structures compounded by collagen, laminin, perlecan, and heparin sulfate proteoglycan wrapped by reticular fibroblasts. This tubular system is capable of rapidly transport small molecules such as viruses, antigens, chemokines, cytokines, and immunoglobulins through lymphoid organs. This structure plays an important role in guiding the cells to their particular niches, therefore participating in cell cooperation, antigen presentation, and cellular activation. The remodeling of conduits has been described in chronic inflammation and infectious diseases to improve the transport of antigens to specific T and B cells in lymphoid tissue. However, malnutrition and infectious agents may induce extracellular matrix remodeling directly or indirectly, leading to the microarchitecture disorganization of secondary lymphoid organs and their conduit system. In this process, the fibers and cells that compound the conduit system may also be altered, which affects the development of a specific immune response. This review aims to discuss the extracellular matrix remodeling during infectious diseases with an emphasis on the alterations of molecules from the conduit system, which damages the cellular and molecular transit in secondary lymphoid organs compromising the immune response.",
+    "year": "2020",
+    "authors": [
+      "Morgado Fernanda N",
+      "da Silva Aurea Virg\u00ednia A",
+      "Porrozzi Renato"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/32187985/"
+  },
+  {
+    "pmid": "31099900",
+    "title": "SIRP\u03b1",
+    "abstract": "Nonhematopoietic stromal cells contribute to the organization and homeostasis of secondary lymphoid organs by producing cytokines and chemokines. The development and maintenance of these stromal cells are thought to be regulated by innate immune cells. Indeed, we recently showed that signal regulatory protein \u03b1 (SIRP\u03b1)-positive dendritic cells (DCs) are essential for the proliferation and survival of podoplanin (Pdpn)-positive fibroblastic reticular cells (FRCs) in mouse spleen. We have now established an in vitro culture system for lymph node stromal cells (LNSCs) isolated from mouse peripheral LNs. Activated DCs and TNF-\u03b1 each promoted the proliferation of cultured LNSCs, most of which were found to be Pdpn",
+    "year": "2019",
+    "authors": [
+      "Komori Satomi",
+      "Saito Yasuyuki",
+      "Respatika Datu"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/31099900/"
+  },
+  {
+    "pmid": "30977192",
+    "title": "Fibroblastic reticular cells at the nexus of innate and adaptive immune responses.",
+    "abstract": "Lymphoid organs guarantee productive immune cell interactions through the establishment of distinct microenvironmental niches that are built by fibroblastic reticular cells (FRC). These specialized immune-interacting fibroblasts coordinate the migration and positioning of lymphoid and myeloid cells in lymphoid organs and provide essential survival and differentiation factors during homeostasis and immune activation. In this review, we will outline the current knowledge on FRC functions in secondary lymphoid organs such as lymph nodes, spleen and Peyer's patches and will discuss how FRCs contribute to the regulation of immune processes in fat-associated lymphoid clusters. Moreover, recent evidence indicates that FRC critically impact immune regulatory processes, for example, through cytokine deprivation during immune activation or through fostering the induction of regulatory T cells. Finally, we highlight how different FRC subsets integrate innate immunological signals and molecular cues from immune cells to fulfill their function as nexus between innate and adaptive immune responses.",
+    "year": "2019",
+    "authors": [
+      "Perez-Shibayama Christian",
+      "Gil-Cruz Cristina",
+      "Ludewig Burkhard"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/30977192/"
+  },
+  {
+    "pmid": "30844420",
+    "title": "Impact of B cell/lymphoid stromal cell crosstalk in B-cell physiology and malignancy.",
+    "abstract": "Stromal cells have been considered for a long time essentially as a structural component organizing tissue architecture, including those of secondary lymphoid organs. More recently, highly specialized stromal cell subsets were shown to differentially organize immune cell recruitment, survival, and differentiation within lymph nodes. In particular, mature B cells interact with different lymphoid stromal cell networks through bidirectional interactions involving cell-cell contact and soluble factors. Follicular lymphoma (FL) is the paradigm of a B-cell malignancy dependent on a lymphoid-like microenvironment supporting tumor cell growth, drug resistance, and clonal evolution. This review provides an overview of our current knowledge of lymphoid stromal cell heterogeneity and functions in normal B-cell activation. In addition, we also depict the dynamic and plasticity of FL cancer-associated fibroblasts, the mechanisms underlying their key role within FL permissive niches, and their potential as therapeutic targets in this still fatal malignancy.",
+    "year": "2019",
+    "authors": [
+      "Lamaison Claire",
+      "Tarte Karin"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/30844420/"
+  },
+  {
+    "pmid": "30510068",
+    "title": "Perivascular Adventitial Fibroblast Specialization Accompanies T Cell Retention in the Inflamed Human Dermis.",
+    "abstract": "Perivascular accumulation of lymphocytes can be a prominent histopathologic feature of various human inflammatory skin diseases. Select examples include systemic sclerosis, spongiotic dermatitis, and cutaneous lupus. Although a large body of work has described various aspects of the endothelial and vascular smooth muscle layers in these diseases, the outer adventitial compartment is poorly explored. The goal of the current study was to characterize perivascular adventitial fibroblast states in inflammatory human skin diseases and relate these states to perivascular lymphocyte accumulation. In normal skin, adventitial fibroblasts are distinguished by CD90 expression, and dense perivascular lymphocytic infiltrates are uncommon. In systemic sclerosis, this compartment expands, but lymphocyte infiltrates remain sparse. In contrast, perivascular adventitial fibroblast expression of VCAM1 is upregulated in spongiotic dermatitis and lupus and is associated with a dense perivascular T cell infiltrate. VCAM1 expression marks transitioned fibroblasts that show some resemblance to the reticular stromal cells in secondary lymphoid organs. Expanded adventitial compartments with perivascular infiltrates similar to the human settings were not seen in the inflamed murine dermis. This species difference may hinder the dissection of aspects of perivascular adventitial pathology. The altered perivascular adventitial compartment and its associated reticular network form a niche for lymphocytes and appear to be fundamental in the development of an inflammatory pattern.",
+    "year": "2019",
+    "authors": [
+      "Barron Alexander M S",
+      "Mantero Julio C",
+      "Ho Jonathan D"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/30510068/"
+  },
+  {
+    "pmid": "30405623",
+    "title": "Integrative Computational Modeling of the Lymph Node Stromal Cell Landscape.",
+    "abstract": "Adaptive immune responses develop in secondary lymphoid organs such as lymph nodes (LNs) in a well-coordinated series of interactions between migrating immune cells and resident stromal cells. Although many processes that occur in LNs are well understood from an immunological point of view, our understanding of the fundamental organization and mechanisms that drive these processes is still incomplete. The aim of systems biology approaches is to unravel the complexity of biological systems and describe emergent properties that arise from interactions between individual constituents of the system. The immune system is greater than the sum of its parts, as is the case with any sufficiently complex system. Here, we review recent work and developments of computational LN models with focus on the structure and organization of the stromal cells. We explore various mathematical studies of intranodal T cell motility and migration, their interactions with the LN-resident stromal cells, and computational models of functional chemokine gradient fields and lymph flow dynamics. Lastly, we discuss briefly the importance of hybrid and multi-scale modeling approaches in immunology and the technical challenges involved.",
+    "year": "2018",
+    "authors": [
+      "Novkovic Mario",
+      "Onder Lucas",
+      "Cheng Hung-Wei"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/30405623/"
+  },
+  {
+    "pmid": "30250567",
+    "title": "Cytotoxic chemotherapy reduces T cell trafficking to the spleen by downregulating the expression of C-C motif chemokine ligand 21 and C-C motif chemokine ligand 19.",
+    "abstract": "T cells serve an important role in the destruction of tumor cells and clearing of foreign pathogens. Previous studies have suggested that the T cell immune response of tumor-bearing patients is significantly lower than that of healthy people, and the principal reason for this is lymphocytopenia, which is caused by repeated cycles of chemotherapy. In addition to lymphocytopenia, the present study revealed that cytotoxic chemotherapy also weakens the homing ability of T cells to the T-cell zone of the spleen, which decreases the possibility of encounters between antigen-specific T cells and dendritic cells presenting the appropriate antigen, thereby weakening the immune response of T cells. These changes are attributed to the lower expression of C-C motif chemokine ligand 21 (CCL21) and C-C motif chemokine ligand 19 (CCL19) in the spleen of secondary lymphoid organs (SLOs). Finally, the present study identified that chemotherapy affects the function and survival of fibroblastic reticular cells in SLOs, which are the main source of CCL21 and CCL19. These observations aid us in further understanding the mechanism that is responsible for the decreased T cell immune response following repeated cycles of chemotherapy.",
+    "year": "2018",
+    "authors": [
+      "Liu Lina",
+      "Zhao Lintao",
+      "Yang Yang"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/30250567/"
+  },
+  {
+    "pmid": "30180168",
+    "title": "The human lymph node microenvironment unilaterally regulates T-cell activation and differentiation.",
+    "abstract": "The microenvironment of lymphoid organs can aid healthy immune function through provision of both structural and molecular support. In mice, fibroblastic reticular cells (FRCs) create an essential T-cell support structure within lymph nodes, while human FRCs are largely unstudied. Here, we show that FRCs create a regulatory checkpoint in human peripheral T-cell activation through 4 mechanisms simultaneously utilised. Human tonsil and lymph node-derived FRCs constrained the proliferation of both na\u00efve and pre-activated T cells, skewing their differentiation away from a central memory T-cell phenotype. FRCs acted unilaterally without requiring T-cell feedback, imposing suppression via indoleamine-2,3-dioxygenase, adenosine 2A Receptor, prostaglandin E2, and transforming growth factor beta receptor (TGF\u03b2R). Each mechanistic pathway was druggable, and a cocktail of inhibitors, targeting all 4 mechanisms, entirely reversed the suppressive effect of FRCs. T cells were not permanently anergised by FRCs, and studies using chimeric antigen receptor (CAR) T cells showed that immunotherapeutic T cells retained effector functions in the presence of FRCs. Since mice were not suitable as a proof-of-concept model, we instead developed a novel human tissue-based in situ assay. Human T cells stimulated using standard methods within fresh tonsil slices did not proliferate except in the presence of inhibitors described above. Collectively, we define a 4-part molecular mechanism by which FRCs regulate the T-cell response to strongly activating events in secondary lymphoid organs while permitting activated and CAR T cells to utilise effector functions. Our results define 4 feasible strategies, used alone or in combinations, to boost primary T-cell responses to infection or cancer by pharmacologically targeting FRCs.",
+    "year": "2018",
+    "authors": [
+      "Knoblich Konstantin",
+      "Cruz Migoni Sara",
+      "Siew Susan M"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/30180168/"
+  },
+  {
+    "pmid": "30150089",
+    "title": "A Fresh View on Lymph Node Organogenesis.",
+    "abstract": "Lymph nodes (LNs) are strategically positioned outposts of the immune system that underpin regional immune surveillance. The current model describing LN formation in mice is based on a two cell-type interaction scheme with lymphoid tissue inducer cells regulating the activation of mesenchymal lymphoid tissue organizer cells. We highlight here the key role of lymphatic endothelial cells during the initiation of LN formation. The involvement of lymphatic endothelial cells as an additional organizer cell type in LN organogenesis unveils multiple control levels that govern the generation of lymphoid organs. Moreover, the linkage between lymphangiogenic and lymphvasculogenic processes and guidance of the accumulation and activation of lymphoid tissue inducer cells in the embryo suggests that LN formation may be driven on demand by developing organ systems.",
+    "year": "2018",
+    "authors": [
+      "Onder Lucas",
+      "Ludewig Burkhard"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/30150089/"
+  },
+  {
+    "pmid": "30097537",
+    "title": "Fibroblastic reticular cells initiate immune responses in visceral adipose tissues and secure peritoneal immunity.",
+    "abstract": "Immune protection of the body cavities depends on the swift activation of innate and adaptive immune responses in nonclassical secondary lymphoid organs known as fat-associated lymphoid clusters (FALCs). Compared with classical secondary lymphoid organs such as lymph nodes and Peyer's patches, FALCs develop along distinct differentiation trajectories and display a reduced structural complexity. Although it is well established that fibroblastic reticular cells (FRCs) are an integral component of the immune-stimulating infrastructure of classical secondary lymphoid organs, the role of FRCs in FALC-dependent peritoneal immunity remains unclear. Using FRC-specific gene targeting, we found that FRCs play an essential role in FALC-driven immune responses. Specifically, we report that initiation of peritoneal immunity was governed through FRC activation in a myeloid differentiation primary response 88 (MYD88)-dependent manner. FRC-specific ablation of MYD88 blocked recruitment of inflammatory monocytes into FALCs and subsequent CD4",
+    "year": "2018",
+    "authors": [
+      "Perez-Shibayama Christian",
+      "Gil-Cruz Cristina",
+      "Cheng Hung-Wei"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/30097537/"
+  },
+  {
+    "pmid": "29934525",
+    "title": "Secondary lymphoid organ fibroblastic reticular cells mediate trans-infection of HIV-1 via CD44-hyaluronan interactions.",
+    "abstract": "Fibroblastic reticular cells (FRCs) are stromal cells in secondary lymphoid organs, the major sites for HIV-1 infection of CD4",
+    "year": "2018",
+    "authors": [
+      "Murakami Tomoyuki",
+      "Kim Jiwon",
+      "Li Yi"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/29934525/"
+  },
+  {
+    "pmid": "29664562",
+    "title": "Stromal cell networks coordinate immune response generation and maintenance.",
+    "abstract": "Secondary lymphoid organs (SLO), including the spleen and lymph nodes (LN) are a meeting place for immune cells to initiate adaptive immune responses. Lymphocytes constantly circulate between SLO through the blood and lymph in search of their cognate antigen and are activated within the organized microarchitecture of SLO. Lymphoid stromal cells (LSC) of mesenchymal and endothelial origin construct and support the microarchitecture of SLO by defining distinct compartments and providing signals that can either promote or inhibit immune responses. Here, we discuss recent studies indicating that LSC, including fibroblastic reticular cells (FRC), contribute substantially to immune responses and may tune responses to secondary challenge.",
+    "year": "2018",
+    "authors": [
+      "Alexandre Yannick O",
+      "Mueller Scott N"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/29664562/"
+  },
+  {
+    "pmid": "29198601",
+    "title": "A short field guide to fibroblast function in immunity.",
+    "abstract": "Fibroblasts in secondary lymphoid organs, or fibroblastic reticular cells (FRC), are gate-keepers of immune responses. Here, we frame how these cells regulate immune responses via a three-part scheme in which FRC can setup, support or suppress immune responses. We also review how fibroblasts from non-lymphoid tissues influence immunity and highlight how they resemble and differ from FRC. Overall, we aim to focus attention on the emerging roles of lymphoid tissue and non-lymphoid tissue fibroblasts in control of innate and adaptive immunity.",
+    "year": "2018",
+    "authors": [
+      "Buechler Matthew B",
+      "Turley Shannon J"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/29198601/"
+  },
+  {
+    "pmid": "29163507",
+    "title": "Impact of Chronic Viral Infection on T-Cell Dependent Humoral Immune Response.",
+    "abstract": "During the last decades, considerable efforts have been done to decipher mechanisms supported by microorganisms or viruses involved in the development, differentiation, and function of immune cells. Pathogens and their associated secretome as well as the continuous inflammation observed in chronic infection are shaping both innate and adaptive immunity. Secondary lymphoid organs are functional structures ensuring the mounting of adaptive immune response against microorganisms and viruses. Inside these organs, germinal centers (GCs) are the specialized sites where mature B-cell differentiation occurs leading to the release of high-affinity immunoglobulin (Ig)-secreting cells. Different steps are critical to complete B-cell differentiation process, including proliferation, somatic hypermutations in Ig variable genes, affinity-based selection, and class switch recombination. All these steps require intense interactions with cognate CD4",
+    "year": "2017",
+    "authors": [
+      "Rodriguez St\u00e9phane",
+      "Roussel Mika\u00ebl",
+      "Tarte Karin"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/29163507/"
+  },
+  {
+    "pmid": "29109283",
+    "title": "SIRP\u03b1",
+    "abstract": "In secondary lymphoid organs, development and homeostasis of stromal cells such as podoplanin (Pdpn)-positive fibroblastic reticular cells (FRCs) are regulated by hematopoietic cells, but the cellular and molecular mechanisms of such regulation have remained unclear. Here we show that ablation of either signal regulatory protein \u03b1 (SIRP\u03b1), an Ig superfamily protein, or its ligand CD47 in conventional dendritic cells (cDCs) markedly reduced the number of CD4",
+    "year": "2017",
+    "authors": [
+      "Saito Yasuyuki",
+      "Respatika Datu",
+      "Komori Satomi"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/29109283/"
+  },
+  {
+    "pmid": "28659930",
+    "title": "Functional and Homeostatic Impact of Age-Related Changes in Lymph Node Stroma.",
+    "abstract": "Adults over 65\u2009years of age are more vulnerable to infectious disease and show poor responses to vaccination relative to those under 50. A complex set of age-related changes in the immune system is believed to be largely responsible for these defects. These changes, collectively termed immune senescence, encompass alterations in both the innate and adaptive immune systems, in the microenvironments where immune cells develop or reside, and in soluble factors that guide immune homeostasis and function. While age-related changes in primary lymphoid organs (bone marrow, and, in particular, the thymus, which involutes in the first third of life) have been long appreciated, changes affecting aging secondary lymphoid organs, and, in particular, aging lymph nodes (LNs) have been less well characterized. Over the last 20\u2009years, LN stromal cells have emerged as key players in maintaining LN morphology and immune homeostasis, as well as in coordinating immune responses to pathogens. Here, we review recent progress in understanding the contributions of LN stromal cells to immune senescence. We discuss approaches to understand the mechanisms behind the decline in LN stromal cells and conclude by considering potential strategies to rejuvenate aging LN stroma to improve immune homeostasis, immune responses, and vaccine efficacy in the elderly.",
+    "year": "2017",
+    "authors": [
+      "Thompson Heather L",
+      "Smithey Megan J",
+      "Surh Charles D"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/28659930/"
+  },
+  {
+    "pmid": "28349474",
+    "title": "Graph Theory-Based Analysis of the Lymph Node Fibroblastic Reticular Cell Network.",
+    "abstract": "Secondary lymphoid organs have developed segregated niches that are able to initiate and maintain effective immune responses. Such global organization requires tight control of diverse cellular components, specifically those that regulate lymphocyte trafficking. Fibroblastic reticular cells (FRCs) form a densely interconnected network in lymph nodes and provide key factors necessary for T cell migration and retention, and foster subsequent interactions between T cells and dendritic cells. Development of integrative systems biology approaches has made it possible to elucidate this multilevel complexity of the immune system. Here, we present a graph theory-based analysis of the FRC network in murine lymph nodes, where generation of the network topology is performed using high-resolution confocal microscopy and 3D reconstruction. This approach facilitates the analysis of physical cell-to-cell connectivity, and estimation of topological robustness and global behavior of the network when it is subjected to perturbation in silico.",
+    "year": "2017",
+    "authors": [
+      "Novkovic Mario",
+      "Onder Lucas",
+      "Bocharov Gennady"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/28349474/"
+  },
+  {
+    "pmid": "28319044",
+    "title": "Fibroblastic niches prime T cell alloimmunity through Delta-like Notch ligands.",
+    "abstract": "Alloimmune T cell responses induce graft-versus-host disease (GVHD), a serious complication of allogeneic bone marrow transplantation (allo-BMT). Although Notch signaling mediated by Delta-like 1/4 (DLL1/4) Notch ligands has emerged as a major regulator of GVHD pathogenesis, little is known about the timing of essential Notch signals and the cellular source of Notch ligands after allo-BMT. Here, we have shown that critical DLL1/4-mediated Notch signals are delivered to donor T cells during a short 48-hour window after transplantation in a mouse allo-BMT model. Stromal, but not hematopoietic, cells were the essential source of Notch ligands during in vivo priming of alloreactive T cells. GVHD could be prevented by selective inactivation of Dll1 and Dll4 in subsets of fibroblastic stromal cells that were derived from chemokine Ccl19-expressing host cells, including fibroblastic reticular cells and follicular dendritic cells. However, neither T cell recruitment into secondary lymphoid organs nor initial T cell activation was affected by Dll1/4 loss. Thus, we have uncovered a pathogenic function for fibroblastic stromal cells in alloimmune reactivity that can be dissociated from their homeostatic functions. Our results reveal what we believe to be a previously unrecognized Notch-mediated immunopathogenic role for stromal cell niches in secondary lymphoid organs after allo-BMT and define a framework of early cellular and molecular interactions that regulate T cell alloimmunity.",
+    "year": "2017",
+    "authors": [
+      "Chung Jooho",
+      "Ebens Christen L",
+      "Perkey Eric"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/28319044/"
+  },
+  {
+    "pmid": "28262465",
+    "title": "Characterization of human fibroblastic reticular cells as potential immunotherapeutic tools.",
+    "abstract": "Fibroblastic reticular cells (FRCs) are essential players during adaptive immune responses not only as a structural support for the encounter of antigen-presenting cells and naive T lymphocytes but also as a source of modulatory signals. However, little is known about this cell population in humans. To address the phenotypical and functional analysis of human FRCs here we established splenic (SP) and mesenteric lymph node (LN) CD45",
+    "year": "2017",
+    "authors": [
+      "Valencia Jaris",
+      "Jim\u00e9nez Eva",
+      "Mart\u00ednez V\u00edctor G"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/28262465/"
+  }
+]
