@@ -12,7 +12,7 @@ def search_biorxiv(query, days_back=1825):
     
     # Hardcoded FRC field terms
     key_terms = [
-        "fibroblastic reticular",
+        "fibroblastic reticular cell",
         "FRC",
         "lymphoid stroma",
         "stromal cell lymph node",
@@ -50,7 +50,7 @@ def search_biorxiv(query, days_back=1825):
         
         cursor += 100
         
-        if cursor > 5000:
+        if cursor > 500:
             print(f"\n  Reached page limit, stopping")
             break
     
