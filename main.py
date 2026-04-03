@@ -1,47 +1,51 @@
+# main.py
 import sys
-from pubmed import search_pubmed, fetch_details, parse_articles, save_results
-from biorxiv import search_biorxiv
-from zotero_fetch import connect_zotero, get_all_items, parse_zotero_items, get_collections, save_zotero_library
-from gap_analysis import find_gaps, print_gap_report, save_gap_report
+from config import (
+    SEARCH_QUERY, DATE_RANGES, MAX_RESULTS_PER_ERA,
+    PUBMED_FILE, ZOTERO_FILE, COMBINED_FILE,
+    MISSING_FILE, READING_LIST_FILE, NETWORK_FILE
+)
+from sources.pubmed import fetch_all_eras
+from sources.zotero import connect, fetch_all, parse_items, audit
+from database import save, load, deduplicate
+from analysis import find_gaps, print_gap_report, export_reading_list, build_author_network
 
 def main():
-    # Search query
-    if len(sys.argv) > 1:
-        query = " ".join(sys.argv[1:])
-    else:
-        query = "fibroblastic reticular cells secondary lymphoid organs"
-    
-    print(f"Running search for: {query}")
+    query = " ".join(sys.argv[1:]) if len(sys.argv) > 1 else SEARCH_QUERY
+    print(f"Query: {query}")
     print("="*50)
 
-    # PubMed search
-    ids = search_pubmed(query, max_results=50)
-    xml_data = fetch_details(ids)
-    pubmed_articles = parse_articles(xml_data)
-    print(f"PubMed: {len(pubmed_articles)} articles")
+    # --- PubMed ---
+    print("\nPUBMED SEARCH")
+    pubmed_articles = fetch_all_eras(query, DATE_RANGES, MAX_RESULTS_PER_ERA)
+    pubmed_articles = deduplicate(pubmed_articles)
+    save(pubmed_articles, PUBMED_FILE)
 
-    # bioRxiv search
-    biorxiv_articles = search_biorxiv(query)
-    print(f"bioRxiv: {len(biorxiv_articles)} preprints")
+    # --- Zotero ---
+    print("\nZOTERO LIBRARY")
+    zot = connect()
+    raw_items = fetch_all(zot)
+    zotero_articles = parse_items(raw_items)
+    zotero_articles = deduplicate(zotero_articles)
+    save(zotero_articles, ZOTERO_FILE)
+    audit(zotero_articles)
 
-    # Combine PubMed + bioRxiv
-    all_new_articles = pubmed_articles + biorxiv_articles
-    save_results(all_new_articles, "all_results.json")
-
-    # Zotero integration
-    print("\n" + "="*50)
-    print("ZOTERO LIBRARY")
-    print("="*50)
-    zot = connect_zotero()
-    get_collections(zot)
-    items = get_all_items(zot)
-    zotero_articles = parse_zotero_items(items)
-    save_zotero_library(zotero_articles)
-
-    # Gap analysis
+    # --- Gap analysis ---
     missing, already_have = find_gaps(pubmed_articles, zotero_articles)
     print_gap_report(missing, already_have)
-    save_gap_report(missing)
+    save(missing, MISSING_FILE)
+
+    # --- Reading list ---
+    export_reading_list(zotero_articles, READING_LIST_FILE)
+
+    # --- Author network ---
+    print("\nBUILDING AUTHOR NETWORK")
+    all_papers = pubmed_articles + zotero_articles
+    all_papers = deduplicate(all_papers)
+    save(all_papers, COMBINED_FILE)
+    network = build_author_network(all_papers)
+    save(network["nodes"], NETWORK_FILE.replace(".json", "_nodes.json"))
+    save(network["edges"], NETWORK_FILE.replace(".json", "_edges.json"))
 
 if __name__ == "__main__":
     main()
